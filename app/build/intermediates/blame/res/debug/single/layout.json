@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\LiveRadio1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_station_list.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\LiveRadio1\\app\\src\\main\\res\\layout\\activity_station_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\LiveRadio1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\LiveRadio1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\LiveRadio1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\stations_list_item.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\LiveRadio1\\app\\src\\main\\res\\layout\\stations_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\LiveRadio1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_webview.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\LiveRadio1\\app\\src\\main\\res\\layout\\activity_webview.xml"
+    }
+]

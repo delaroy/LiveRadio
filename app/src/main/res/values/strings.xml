@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Live Radio</string>
+    <string name="version">1.4.5</string>
+    <string name="is_display_ad">true</string>
+    <string name="admob_publisher_id">a150dc9f65a4c88</string> <!-- Enter your AdMob Publisher ID -->
+    <string name="lastfm_api_key">7fb78a81b20bee7cb6e8fad4cbcb3694</string> <!-- Enter your Last.fm API Key -->
+    <string name="facebook_id">webcraftbd</string>
+    <string name="twitter_id">zchowdhury</string>
+
+    <string-array name="station_names">        
+        <item>1.FM - ABSOLUTE TOP 40</item>
+        <item>Radio Paradise</item> 
+        <item>z103 FM (AAC+)</item>       
+        <item>Soma FM (RTSP)</item>        
+        <item>Alex Jones Show</item>
+    </string-array>
+    <string-array name="station_urls">        
+        <item>http://205.164.62.22:8075</item>
+        <item>http://173.192.48.71:8054</item>
+        <item>http://2483.live.streamtheworld.com:80/KFTZFMAACCMP3</item>        
+        <item>rtsp://64.202.98.91:554/ipr.sdp</item>
+        <item>http://stream.infowars.com:80</item>
+    </string-array>
+    <string-array name="station_types">        
+        <item>mp3</item>
+        <item>mp3</item>
+        <item>aac</item>	<!-- mp3 or aac -->
+        <item>mp3</item>
+        <item>mp3</item>
+    </string-array>
+    
+    <string name="menu_radio">Now Playing</string>
+    <string name="menu_stations">Stations</string>    
+    <string name="menu_facebook">Facebook</string>
+    <string name="menu_twitter">Twitter</string>
+    <string name="menu_about">About</string>    
+    <string name="menu_exit">Exit</string>
+</resources>

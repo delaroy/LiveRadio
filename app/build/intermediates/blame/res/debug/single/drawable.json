@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\LiveRadio1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_previous.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\LiveRadio1\\app\\src\\main\\res\\drawable\\btn_previous.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\LiveRadio1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_next.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\LiveRadio1\\app\\src\\main\\res\\drawable\\btn_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\LiveRadio1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_pause.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\LiveRadio1\\app\\src\\main\\res\\drawable\\btn_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\LiveRadio1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_play.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\LiveRadio1\\app\\src\\main\\res\\drawable\\btn_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\LiveRadio1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_stop.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\LiveRadio1\\app\\src\\main\\res\\drawable\\btn_stop.xml"
+    }
+]

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\delaroystudios\Desktop\LiveRadio1\app\libs\GoogleAdMobAdsSdk-6.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="40ffb9188343d72dc46d596836a8dd8d464b41a3">
+        <dex dex="C:\Users\delaroystudios\Desktop\LiveRadio1\app\build\intermediates\pre-dexed\debug\GoogleAdMobAdsSdk-6.2.1_1e2fc40c59cda41fa62ac3825ee0deac2071ece0.jar" />
+    </item>
+    <item
+        jar="C:\android-sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\delaroystudios\Desktop\LiveRadio1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_e849bc26d4efd9b7f86fe2f331ebd71618a3b224.jar" />
+    </item>
+    <item
+        jar="C:\Users\delaroystudios\Desktop\LiveRadio1\app\libs\aacdecoder-android-0.6.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="42f88cba8d005301d5aa816949da990a54ea2653">
+        <dex dex="C:\Users\delaroystudios\Desktop\LiveRadio1\app\build\intermediates\pre-dexed\debug\aacdecoder-android-0.6.1_c7312f558dddf05ecffa1eb191140b0a762d6edb.jar" />
+    </item>
+
+</items>

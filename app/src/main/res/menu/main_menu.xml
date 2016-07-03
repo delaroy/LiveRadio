@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:id="@+id/menuGroup">        
+        <item android:id="@+id/radio" android:title="@string/menu_radio" android:icon="@drawable/menu_radio"></item>
+        <item android:id="@+id/stations" android:title="@string/menu_stations" android:icon="@drawable/menu_stations"></item>
+        <item android:id="@+id/facebook" android:title="@string/menu_facebook" android:icon="@drawable/menu_facebook"></item>
+        <item android:id="@+id/twitter" android:title="@string/menu_twitter" android:icon="@drawable/menu_twitter"></item>
+        <item android:id="@+id/about" android:title="@string/menu_about" android:icon="@drawable/menu_about"></item>
+        <item android:id="@+id/exit" android:title="@string/menu_exit" android:icon="@drawable/menu_exit"></item>
+    </group>
+</menu> 

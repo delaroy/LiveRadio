@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="status_connecting">Connecting...</string>
+    <string name="status_buffering">Buffering...</string>
+    <string name="status_ready">Ready</string>
+    <string name="status_playing">Playing</string>
+    <string name="status_paused">Paused</string>
+    <string name="status_stopped">Stopped</string>
+    <string name="status_error">Stream Unavailable</string>
+    <string name="status_noconnection">No Connection</string>
+</resources>
